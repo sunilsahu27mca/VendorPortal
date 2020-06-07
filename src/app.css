@@ -1,0 +1,14 @@
+.txtb{
+    color: blue
+}
+
+.txtg{
+    color: green
+}
+
+footer.page-footer .footer-copyright {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background: black;
+   z-index:9999999;}
